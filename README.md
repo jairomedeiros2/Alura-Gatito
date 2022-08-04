@@ -9,7 +9,7 @@ Obs: O seguinte erro estava acontecendo ao fazer o cadastro do usuário: "POST h
 ## Detalhes:
 * link da aula: https://cursos.alura.com.br/course/angular-boas-praticas-arquiteturas-formularios/task/86795
 * Link Back-End: https://github.com/jairomedeiros2/Alura-Gatito-BackEnd
-  -- 
+  
 * Outros links: https://cursos.alura.com.br/forum/topico-subir-um-projeto-existente-para-o-github-64968
 
 ## Development server
