@@ -8,6 +8,8 @@ Obs: O seguinte erro esta acontecendo ao fazer o cadastro do usuário: "POST htt
 * Link Back-End: https://github.com/jairomedeiros2/Alura-Gatito-BackEnd
 * Solução não encontrada no forum até 04/08/2022.
 
+* Outros links: https://cursos.alura.com.br/forum/topico-subir-um-projeto-existente-para-o-github-64968
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
